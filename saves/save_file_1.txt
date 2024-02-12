@@ -1,0 +1,9 @@
+2024 Feb 12 - 02:51:59
+{'number': 1, 'title': 'Prologue', 'file': 'chapter_prologue_1920x1080.png'}
+{'johndoe': {'file': 'm01_happy.png', 'x': 200, 'y': 25}, 'janedoe': {'file': 'fm01_happy.png', 'x': 1100, 'y': 25}}
+{'speaker': 'John Doe', 'body': 'No worries, Jane! I was introducing the engine to our players.', 'speaker_color': (50, 255, 50), 'body_color': (255, 255, 255)}
+[{'speaker': 'John Doe', 'body': 'No worries, Jane! I was introducing the engine to our players.', 'speaker_color': (50, 255, 50), 'body_color': (255, 255, 255)}, {'speaker': 'Jane Doe', 'body': 'Hey, John! Sorry to keep you wanting!', 'speaker_color': (255, 50, 50), 'body_color': (255, 255, 255)}, {'speaker': 'Jane Doe', 'body': '*PANT* *PANT* *PANT*', 'speaker_color': (255, 50, 50), 'body_color': (255, 255, 255)}, {'speaker': 'John Doe', 'body': 'Hello there! Welcome to Visu Engine, a basic engine for Visual Novel games in Python.', 'speaker_color': (50, 255, 50), 'body_color': (255, 255, 255)}]
+Otome90.ogg
+cinema_nomovie_lowlight_1920x1080.png
+9
+1

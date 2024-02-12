@@ -1,0 +1,9 @@
+2024 Feb 12 - 02:52:03
+{'number': 1, 'title': 'Prologue', 'file': 'chapter_prologue_1920x1080.png'}
+{'johndoe': {'file': 'm01_happy.png', 'x': 200, 'y': 25}, 'janedoe': {'file': 'fm01_happy.png', 'x': 1100, 'y': 25}}
+{'speaker': 'Jane', 'body': 'Sure thing!', 'speaker_color': (255, 50, 50), 'body_color': (255, 255, 255)}
+[{'speaker': 'Jane', 'body': 'Sure thing!', 'speaker_color': (255, 50, 50), 'body_color': (255, 255, 255)}, {'speaker': 'John Doe', 'body': "Anyway, let's get a seat, it's about to start!", 'speaker_color': (50, 255, 50), 'body_color': (255, 255, 255)}, {'speaker': 'John Doe', 'body': "Yeah, yeah, it's totally a reference to the movie... *cough* *cough*", 'speaker_color': (50, 255, 50), 'body_color': (255, 255, 255)}, {'speaker': 'Jane Doe', 'body': 'Or is this a reference to the movie we are gonna watch now?', 'speaker_color': (255, 50, 50), 'body_color': (255, 255, 255)}, {'speaker': 'Jane Doe', 'body': 'What? What are you talking about, dude? Did you hit your head?', 'speaker_color': (255, 50, 50), 'body_color': (255, 255, 255)}, {'speaker': 'John Doe', 'body': 'No worries, Jane! I was introducing the engine to our players.', 'speaker_color': (50, 255, 50), 'body_color': (255, 255, 255)}, {'speaker': 'Jane Doe', 'body': 'Hey, John! Sorry to keep you wanting!', 'speaker_color': (255, 50, 50), 'body_color': (255, 255, 255)}, {'speaker': 'Jane Doe', 'body': '*PANT* *PANT* *PANT*', 'speaker_color': (255, 50, 50), 'body_color': (255, 255, 255)}, {'speaker': 'John Doe', 'body': 'Hello there! Welcome to Visu Engine, a basic engine for Visual Novel games in Python.', 'speaker_color': (50, 255, 50), 'body_color': (255, 255, 255)}]
+Otome90.ogg
+cinema_nomovie_lowlight_1920x1080.png
+14
+1
