@@ -1,0 +1,49 @@
+["CHAPTER", {"title": "Epilogue", "file": "chapter_epilogue_1920x1080.png"}],
+["BG_IMG", {"file": "cinema_movie_nolight_1920x1080.png"}],
+["SPRITE",
+  {"reference": "janedoe", "file": configurations.assets["MODEL_FEMALE_HAPPY"], "x": 1100, "y": 25}
+],
+["TEXT", {
+  "speaker": "Jane Doe",
+  "body": """Wow, this movie is really cool! I'm loving it so far!""",
+  "speaker_color": configurations.RED,
+  "body_color": configurations.WHITE}
+],
+["SPRITE",
+  {"reference": "johndoe", "file": configurations.assets["MODEL_MALE_HAPPY"], "x": 200, "y": 25}
+],
+["TEXT", {
+  "speaker": "John Doe",
+  "body": """I'm loving it too! Especially this second chapter... Very interesting, right?""",
+  "speaker_color": configurations.GREEN,
+  "body_color": configurations.WHITE}
+],
+["SPRITE",
+  {"reference": "janedoe", "file": configurations.assets["MODEL_FEMALE_UPSET"], "x": 1100, "y": 25}
+],
+["TEXT", {
+  "speaker": "Jane Doe",
+  "body": """Eh? There's no chapters in this movie, what are you talking about?""",
+  "speaker_color": configurations.RED,
+  "body_color": configurations.WHITE}
+],
+["SPRITE",
+  {"reference": "johndoe", "file": configurations.assets["MODEL_MALE_EMBARRASSED"], "x": 200, "y": 25}
+],
+["TEXT", {
+  "speaker": "John Doe",
+  "body": """Well, look at the time! Until we meet again, everyone!""",
+  "speaker_color": configurations.GREEN,
+  "body_color": configurations.WHITE}
+],
+["TEXT", {
+  "speaker": "Jane Doe",
+  "body": """Wait, everyone?""",
+  "speaker_color": configurations.RED,
+  "body_color": configurations.WHITE}
+],
+["MUSIC", {"file": "Again.ogg"}],
+["BG_IMG", {"file": "black_background_1920x1080.png"}],
+["SPRITE_REMOVE", {"reference": "johndoe"}],
+["SPRITE_REMOVE", {"reference": "janedoe"}],
+["CREDITS", {}]

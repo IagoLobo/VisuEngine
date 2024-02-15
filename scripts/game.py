@@ -255,10 +255,10 @@ def loadSaveFileData(save_file):
 
   if path.exists(save_file):
     with open(save_file, "rt") as in_file:
-      for content, line in enumerate(in_file):
-        if content in [1, 2, 3, 4]:
+      for ctn, line in enumerate(in_file):
+        if ctn in [1, 2, 3, 4]:
           result.append(ast.literal_eval(line.strip()))
-        elif content in [7, 8]:
+        elif ctn in [7, 8]:
           result.append(int(line.strip()))
         else:
           result.append(line.strip())

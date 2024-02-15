@@ -99,6 +99,7 @@ assets = {
 SCRIPTS_PATH = 'scripts/'
 SETTINGS_PATH = 'settings/'
 SAVES_PATH = 'saves/'
+STORY_PATH = 'story/'
 BACKGROUND_PATH = 'backgrounds/'
 MUSIC_PATH = 'sounds/music/'
 SFX_PATH = 'sounds/sfx/'
@@ -137,6 +138,10 @@ GAME_SETTINGS = SETTINGS_PATH + "game_settings.txt"
 SAVE_FILE_1 = SAVES_PATH + "save_file_1.txt"
 SAVE_FILE_2 = SAVES_PATH + "save_file_2.txt"
 SAVE_FILE_3 = SAVES_PATH + "save_file_3.txt"
+
+# Story bits
+CHAPTER_1 = STORY_PATH + "chapter_1.txt"
+CHAPTER_2 = STORY_PATH + "chapter_2.txt"
 
 # Misc commands
 TEXT_BOX_HIDE = "TEXT_BOX_HIDE"
